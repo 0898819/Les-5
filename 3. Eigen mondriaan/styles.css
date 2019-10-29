@@ -1,0 +1,163 @@
+body{
+    margin: 0;
+    background-image:url('eigen\ mondriaan.pn');
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+
+main{
+    width: 800px;
+    height: 800px;
+    background: black;
+    opacity: 1;
+}
+
+.block{
+    float:left;
+}
+
+#block-01{
+    height: 256px;
+    width: 256px;
+    margin-left: 8px;
+    margin-top: 8px;
+    background: blue;
+}
+
+#block-02{
+    height: 256px;
+    width: 256px;
+    margin-left: 8px;
+    margin-top: 8px;
+    background: white;
+}
+
+#block-03{
+    height: 256px;
+    width: 256px;
+    margin-left: 8px;
+    margin-top: 8px;
+    background: red;
+}
+
+#block-04{
+    height: 264px;
+    width: 256px;
+    margin-left: 8px;
+    background: blue;
+  
+}
+
+#block-05{
+    height: 264px;
+    width: 256px;
+    margin-left: 8px;
+    background: white;
+}
+
+
+
+#block-06{
+    height: 264px;
+    width: 256px;
+    margin-left: 8px;
+    background: red;
+}
+
+
+#block-07{
+    height:  124px;
+    width:  124px;
+    margin-left: 8px;
+    margin-top: 8px;
+    background: yellow;
+}
+
+#block-08{
+    height:  124px;
+    width:  124px;
+    margin-left: 8px;
+    margin-top: 8px;
+    background: blue;
+}
+
+#block-09{
+    height:  124px;
+    width:  124px;
+    margin-left: 8px;
+    margin-top: 8px;
+    background: yellow;
+}
+
+
+#block-10{
+    height:  124px;
+    width:  124px;
+    margin-left: 8px;
+    margin-top: 8px;
+    background: blue;
+}
+
+#block-11{
+    height:  124px;
+    width:  124px;
+    margin-left: 8px;
+    margin-top: 8px;
+    background: yellow;
+}
+
+#block-12{
+    height:  124px;
+    width:  124px;
+    margin-left: 8px;
+    margin-top: 8px;
+    background: blue;
+}
+
+#block-13{
+    height:  124px;
+    width:  124px;
+    margin-left: 8px;
+    margin-top: 8px;
+    background: white;
+}
+
+#block-14{
+    height:  124px;
+    width:  124px;
+    margin-left: 8px;
+    margin-top: 8px;
+    background: red;
+}
+
+#block-15{
+    height:  124px;
+    width:  124px;
+    margin-left: 8px;
+    margin-top: 8px;
+    background: white;
+}
+
+#block-16{
+    height:  124px;
+    width:  124px;
+    margin-left: 8px;
+    margin-top: 8px;
+    background: red;
+}
+
+#block-17{
+    height:  124px;
+    width:  124px;
+    margin-left: 8px;
+    margin-top: 8px;
+    background: white;
+}
+
+#block-18{
+    height:  124px;
+    width:  124px;
+    margin-left: 8px;
+    margin-top: 8px;
+    background: red;
+}
